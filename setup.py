@@ -122,6 +122,7 @@ project = dict(
         'jupyter==1.0.0',
         'ipywidgets==7.5.0',
         'sudospawner==0.5.2',
+        'batchspawner==0.8.1',
         'tornado==6.0.3',
         'pycurl==7.43.0.3',  # recommended by server logs
     ],
